@@ -1,0 +1,8 @@
+.menu{
+	background-color: skyblue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding:20px;
+    margin-top:20px;
+}
