@@ -22,7 +22,7 @@
 				</tr>
 			</table>
 		</div>
-		<img width="200px" height="200px" src="/img/bootsy.jpg"/>
+		<img width="200px" height="200px" src="/img/libros.jpg"/>
 	</div>
 </body>
 </html>

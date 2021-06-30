@@ -10,7 +10,7 @@
 	<div class="container">
 		<jsp:include page="cabecera.jsp"></jsp:include>
 		<h2>Listado de Libros</h2>
-		<table class="table">
+		<table class="table table-dark table-striped">
 			<tr>
 				<th style="width : 12%;">ISBN</th>
 				<th>T&iacute;tulo</th>
